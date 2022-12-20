@@ -1,1 +1,1 @@
-# https---github.com-Emirhan-26-google-landing-page
+# https://emirhan-26.github.io/google-landing-page/
